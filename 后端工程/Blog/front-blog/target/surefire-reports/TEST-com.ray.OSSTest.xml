@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.ray.OSSTest" time="0.622" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2021.2.2"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\bin"/>
+    <property name="java.vm.version" value="25.332-b08"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="maven.multiModuleProjectDirectory" value="F:\dev\JavaWEB\workspace\Blog"/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\dev\JavaWEB\workspace\Blog"/>
+    <property name="java.runtime.version" value="1.8.0_332-b08"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\LENOVO\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="E:\IntelliJ IDEA 2021.2.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="F:\dev\JavaWEB\apache-maven-3.8.1\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Users\LENOVO\.jdks\corretto-1.8.0_332\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java16\jdk-16.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\VMware Workstation Pro\bin\;C:\Windows\System32;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\nodejs\;E:\Git\cmd;E:\mysql-8.0.28-winx64\bin;;E:\微信web开发者工具\dll;E:\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;E:\python\Scripts\;E:\python\;C:\Users\LENOVO\AppData\Local\Microsoft\WindowsApps;C:\Users\LENOVO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Bandizip\;F:\nodejs;F:\nodejs\node_global\;C:\Users\LENOVO\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="F:\dev\JavaWEB\apache-maven-3.8.1/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.repo.local" value="F:\dev\JavaWEB\apache-maven-3.8.1\jar"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\LENOVO"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="LENOVO"/>
+    <property name="java.class.path" value="F:\dev\JavaWEB\apache-maven-3.8.1\boot\plexus-classworlds-2.6.0.jar;F:\dev\JavaWEB\apache-maven-3.8.1\boot\plexus-classworlds.license;E:\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.2.2 -s F:\dev\JavaWEB\apache-maven-3.8.1\conf\settings.xml -Dmaven.repo.local=F:\dev\JavaWEB\apache-maven-3.8.1\jar install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_332"/>
+    <property name="java.ext.dirs" value="C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\resources.jar;C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\rt.jar;C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\sunrsasign.jar;C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\jsse.jar;C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\jce.jar;C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\charsets.jar;C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\lib\jfr.jar;C:\Users\LENOVO\.jdks\corretto-1.8.0_332\jre\classes"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="maven.home" value="F:\dev\JavaWEB\apache-maven-3.8.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.ray.OSSTest" name="com.ray.OSSTest.testOSS" time="0.622"/>
+</testsuite>
