@@ -31,7 +31,7 @@ mybatis-plus:
       id-type: auto
 
 oss:
-  accessKey: YinoKdpZfgONtST4HCTWl171hF2_FRNxkCuRLDeh
-  secretKey: n3gcgXsxmEpuSLu2qXd1VSg3BNcsUHEUF5oNfhm4
-  bucket: tracy-ray-blog
-  domainName: rpoxo81hg.hb-bkt.clouddn.com
+  accessKey: YinoKdpZfgONRLDeh
+  secretKey: n3gcgUHEUF5oNfhm4
+  bucket: tracy-r
+  domainName: rpoxo81hg.uddn.com
